@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SHARVESHWARAN S S</h1>
-<h3 align="center">🚀 Aspiring DevOps & Cloud Engineer | Automating the Future from India 🇮🇳</h3>
+<h3 align="center">🚀 Aspiring Web Development , DevOps & Cloud Engineer | Automating the Future from India 🇮🇳</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sharvesh-waran&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -9,7 +9,7 @@
 
 🔧 I'm passionate about **Cloud Infrastructure, Automation, and CI/CD Pipelines**  
 🌱 Currently learning **AWS, Docker, Jenkins, Kubernetes, and Terraform**  
-💬 Ask me about **Linux, Git, Java, DevOps Tools**  
+💬 Ask me about **Linux, Git, Java, DevOps Tools, HTML, CSS, SQL **  
 📫 Reach me at **sharveshw284@gmail.com**  
 🎯 Focused on building **scalable, secure, and automated cloud-native applications**  
 
